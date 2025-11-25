@@ -1,6 +1,6 @@
 <!-- Banner (ảnh đầu) -->
 <p align="center">
-  <img src="https://livewallpapers4free.com/wp-content/uploads/2025/02/water-and-rocks-PLAYER-zxc.mp4?id=0" alt="Banner" width="100%" />
+  <img src="[https://livewallpapers4free.com/wp-content/uploads/2025/02/water-and-rocks-PLAYER-zxc.mp4](https://livewallpapers4free.com/wp-content/uploads/2024/11/bqmdnobyvnxpetwj.mp4?id=0)?id=0" alt="Banner" width="100%" />
 </p>
 
 
