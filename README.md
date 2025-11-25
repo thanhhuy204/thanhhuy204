@@ -32,15 +32,6 @@
 </p>
 
 ---
-
-## 📬 Connect with me
-
-<p align="left">
-  <a href="[https://facebook.com/your-facebook-link](https://www.facebook.com/nguyen.ang.thanh.huy)" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/facebook.png"/>
-  </a>
-  <a href="nguyendangthanhhuy04@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
   </a>  
 </p>
 
