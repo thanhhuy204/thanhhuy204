@@ -4,7 +4,8 @@
 
 # 👋 Hi there, I'm Huy
 
-🎓 Software Engineering Student at Quy Nhon University |💻 Frontend Developer (Angular / React / Next.js)
+🎓  Student at Quy Nhon University |
+💻 Frontend Developer (Angular / React / Next.js)
 
 
 </div>
