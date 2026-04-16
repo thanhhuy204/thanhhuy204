@@ -1,10 +1,14 @@
 <img src="./assets/thanhhuydev.jpg" />
 
+<div align="center">
+
 # 👋 Hi there, I'm Huy
 
 🎓 Software Engineering Student at Quy Nhon University
 💻 Frontend Developer (Angular / React / Next.js)
 🚀 Passionate about building modern web applications
+
+</div>
 
 ---
 
@@ -54,11 +58,12 @@
 
 ## 📫 Contact
 
-* 📧 nguyendangthanhhuy04@gmail.com
+* 📧 [nguyendangthanhhuy04@gmail.com](mailto:nguyendangthanhhuy04@gmail.com)
 
 ---
 
 ## 💡 Quote
 
 > “First, solve the problem. Then, write the code.”
+
 
